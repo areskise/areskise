@@ -1,6 +1,6 @@
 ### Hi there 👋
 <a href="#" target="_blank">
-  <img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" width="1200" alt="areskise" />
+  <img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" width="100%" alt="areskise" />
 </a>
 
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
@@ -14,6 +14,8 @@
 <span><img src="https://img.shields.io/badge/Bootstrap-282C34?logo=bootstrap&logoColor=7952B3" alt="Bootstrap logo" title="Bootstrap" height="30" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="30" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Jquery-282C34?logo=jquery&logoColor=0769AD" alt="Jquery logo" title="Jquery" height="30" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/ReactJS-282C34?logo=react&logoColor=61DAFB" alt="ReactJS logo" title="ReactJS" height="30" /></span>
 &nbsp;
